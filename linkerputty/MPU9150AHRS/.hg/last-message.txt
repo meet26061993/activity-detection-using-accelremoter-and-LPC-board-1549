@@ -1,0 +1,1 @@
+This is a program which will take input from the accelerometer MPU9150 and the board is LPC 1549
